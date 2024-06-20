@@ -28,12 +28,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 📈 GitHub 统计
+## 📈 GitHub 统计（包括全部提交记录）
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Yougan001&show_icons=true&theme=radical&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Yougan001&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yougan001&layout=compact&theme=radical&langs_count=8" />
 </p>
+
 
 ## 🏆 GitHub 奖杯
 
