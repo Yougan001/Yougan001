@@ -56,6 +56,12 @@
   <img src="https://contributors-img.web.app/image?repo=Yougan001/scholl-brand" />
 </p>
 
+## 🔥 贡献
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yougan001&theme=radical" alt="GitHub Streak" />
+</p>
+
 ## 🐍 GitHub 贡献图
 
 <p align="center">
