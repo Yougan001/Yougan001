@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://raw.githubusercontent.com/Yougan001/Yougan001/5ee18fec1dab91189868c8e2e6e9ca8848fda582/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/Yougan001/Yougan001/5ee18fec1dab91189868c8e2e6e9ca8848fda582/github-contribution-grid-snake.svg)
 <!--
 **Yougan001/Yougan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
