@@ -8,8 +8,8 @@
 
 我是一名Java开发者，目前居住在**广州**。我喜欢**编程还有读书**。
 
-- 🌱 我正在学习**Java**
-- 💬 可以向我询问关于**Java**
+- 🌱 我正在学习**Java/前端**
+- 💬 可以向我询问关于**Java/前端**
 
 ## 🔧 技术与工具
 
@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/HarmonyOS-FF0000?style=for-the-badge&logo=harmonyos&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
