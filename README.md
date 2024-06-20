@@ -1,15 +1,21 @@
-# 你好，我是油柑！👋
+# 大家好，我是油柑！👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&center=true&vCenter=true&lines=欢迎来到我的GitHub主页!;我是一名充满激情的开发者.;我热爱编程和阅读。)
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="800">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=30&center=true&vCenter=true&width=1000&height=100&lines=欢迎来到我的GitHub主页!;我是一名充满激情的开发者.;我热爱编程和阅读。">
+</p>
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 关于我
+## 🛠️ 技能与兴趣
 
-我是一名Java开发者，目前居住在**广州**。我喜欢**编程还有读书**。
-
-- 🌱 我正在学习**Java/前端**
-- 💬 可以向我询问关于**Java/前端**
+| 编程语言   | 前端开发 | 操作系统  | 兴趣爱好             |
+| ---------- | -------- | --------- | -------------------- |
+| Java       | Vue.js   | HarmonyOS | 阅读技术书籍，编程竞赛 |
+| JavaScript | React    | Windows   |                      |
 
 ## 🔧 技术与工具
 
@@ -18,14 +24,15 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/HarmonyOS-FF0000?style=for-the-badge&logo=harmonyos&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ## 📈 GitHub 统计
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Yougan001&show_icons=true&theme=radical&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yougan001&layout=compact&theme=radical&langs_count=8" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Yougan001&show_icons=true&theme=radical&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yougan001&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 ## 🏆 GitHub 奖杯
@@ -42,6 +49,11 @@
   </a>
 </p>
 
+## 🌟 项目贡献者
+
+<p align="center">
+  <img src="https://contributors-img.web.app/image?repo=Yougan001/scholl-brand" />
+</p>
 
 ## 🐍 GitHub 贡献图
 
