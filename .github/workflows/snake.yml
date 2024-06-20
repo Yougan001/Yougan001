@@ -11,8 +11,10 @@ on:
   # run on every push on the master branch
   push:
     branches:
-     - "*"
-    
+     - "*"  
+  pull_request:
+    branches:
+     - "*" 
   
 
 jobs:
