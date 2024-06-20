@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=30&center=true&vCenter=true&width=1000&height=100&lines=欢迎来到我的GitHub主页!;我是一名充满激情的开发者.;我热爱编程和阅读。">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=30&center=true&vCenter=true&width=1000&height=100&lines=欢迎来到我的GitHub主页!;我是一名开发者.;我热爱编程和阅读。">
 </p>
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
